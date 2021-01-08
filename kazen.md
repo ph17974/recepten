@@ -11,6 +11,11 @@ Dit is een lijst van interessante Franse Kazen voor een kaasschotel.
 
 ## Zachte kazen
 
+1. Brie de Meaux (AOC/AOP)
+    - witte korstkaas
+    - rauwe koemelk
+    - AOC: 1980
+    - AOP: 1996
 
 3. Pont L'Evêque
 4. Livarot
