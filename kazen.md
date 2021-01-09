@@ -17,6 +17,8 @@ Dit is een lijst van interessante Franse kazen voor een kaasschotel.
 2. Tomme de Brebis
     - gewassen korstkaas
     - koe- en schapenmelk
+3. Mimolette d'Insigny Ste Mère
+4. Tomme des Pyrénées
 
 ## Half zachte kazen
 
@@ -39,9 +41,6 @@ Dit is een lijst van interessante Franse kazen voor een kaasschotel.
     - rauwe koemelk
     - AOC: 1980
     - AOP: 1996
-
-8. Mimolette d'Insigny Ste Mère
-9. Saint Félicien
-10. Gratte Paille
-11. Coulummiers
-12. Tomme des Pyrénées
+2. Coulummiers
+3. Gratte Paille
+4. Saint Félicien
