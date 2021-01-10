@@ -50,7 +50,7 @@ Dit is een lijst van interessante Franse kazen voor een kaasschotel.
     - witte korstkaas
     - koemelk
 4. Gratte Paille
-    - witte korstkas
+    - witte korstkaas
     - koemelk
 5. Saint Félicien
     - witte korstkaas
